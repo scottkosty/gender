@@ -1,0 +1,12 @@
+Package: gender
+Type: Package
+Title: Uses data on baby names to guess gender
+Version: 0.1
+Date: 2014-03-29
+Author: Scott Kostyshak
+Maintainer: Scott Kostyshak <skostysh@princeton.edu>
+Description: Uses data on baby names to guess gender
+Depends:
+    R (>= 2.10)
+License: GPL
+LazyData: true
